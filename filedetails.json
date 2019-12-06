@@ -1,7 +1,8 @@
 {
 "ovpn_file":[
   {"id":0,"file":"client
-remote 212.115.108.31 1194 udp
+   proto tcp
+remote 212.115.108.31 1194
 cipher AES-256-CBC
 auth SHA1
 tun-mtu 1500
