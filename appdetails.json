@@ -1,15 +1,16 @@
 {
-  "ads":"true",
+  "ads":"false",
   "update":[{
     "version":"2.8.1600",
-    "title":"This app is now Open Source",
+    "title":"This app is now Open Source yep",
     "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
     "size":"https://git.io/JeY69"
   }],
   "blocked":[
-    {"id":3, "app":"com.tor.client"}
+    {"id":0, "app":"com.tor.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"london","country":"United Kingdom","image":"unitedkingdom","ip":"212.115.108.31","active":"true","signal":"a"}  
+    {"id":0, "file":0, "city":"london","country":"United Kingdom","image":"unitedkingdom","ip":"212.115.108.31","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"}
   ]
 }
