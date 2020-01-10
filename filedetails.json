@@ -45,7 +45,7 @@ ospkdQ==
 </ca>"
   },
 {"id":0,"file":"client
-   proto tcp
+   proto udp
 remote 212.115.108.31 1194
 cipher AES-256-CBC
 auth SHA1
